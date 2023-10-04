@@ -1,3 +1,3 @@
-# KTK Github
+# reited Github
 
-To host the discussions of the 3sdf main
+To host the discussions of the reited main
